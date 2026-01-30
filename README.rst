@@ -8,6 +8,6 @@ Per accedere all'ambiente di calcolo creato da `Binder <http://mybinder.org>`_ u
 SageMath, fai click sul questo badge:
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/damipase84/sage-binder-env/master
+ :target: https://mybinder.org/v2/gh/damipase84/sage-binder-SIMAT/master
 
 Se si vuole usare questo binder per creare un nuovo notebook, bisogna poi fare il download del notebook per salvarlo nel pc, altrimenti si perde il lavoro fatto.
