@@ -8,7 +8,7 @@ Per accedere all'ambiente di calcolo creato da `Binder <http://mybinder.org>`_ u
 SageMath, fai click sul questo badge:
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/damipase84/sage-binder-SIMAT/master
+ :target: https://mybinder.org/v2/gh/damipase84/sage-binder-SIMat/master
 
 Il link nel badge porta ad una pagina web chiamata JupyterLab dove poter aprire e creare notebooks in cui poter usare i comandi di SageMath. 
 Sono inoltre disponibili i notebook preparati per le lezioni del corso SIMat: si potranno visualizzare ed eseguire.
